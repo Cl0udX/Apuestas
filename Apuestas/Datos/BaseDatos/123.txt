@@ -1,0 +1,2 @@
+Monto: 50000, Fecha: 30/10/2018, Caballo :4, Victoria: SI
+Monto: 6000, Fecha: 30/10/2018, Caballo :4, Victoria: NO
